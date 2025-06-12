@@ -19,12 +19,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’ve completed a Pokédex in almost every region at some point.
 
-[![Website](https://img.shields.io/badge/Website-haagensen.me-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.haagensen.me)
-
 ---
 
 ### 📬 Contact
 
+[![Website](https://img.shields.io/badge/Website-haagensen.me-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.haagensen.me)
 [![Email](https://img.shields.io/badge/Email-Haage001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Haage001@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Haage-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/182506412482494465)
 
