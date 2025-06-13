@@ -33,21 +33,32 @@
 
 ### 💻 Languages & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+<br>
+![Proxmox](https://img.shields.io/badge/Proxmox-333333?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ### 🎓 Certifications
 
 ![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 📚 Currently Learning
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🎮 Minecraft
 
 [![Modrinth Profile](https://img.shields.io/badge/Modrinth%20Profile-Haage-5da545?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Haage)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.x-62B47A?style=for-the-badge)
 ![Fabric](https://img.shields.io/badge/Fabric-0D1117?style=for-the-badge)
+![Blockbench](https://img.shields.io/badge/Blockbench-1E1E1E?style=for-the-badge&logo=blockbench&logoColor=00AFF4)
+
 
 ---
 
