@@ -15,7 +15,6 @@
 
 - 👀 Into Minecraft modding, resource packs, and Pokémon.
 - 🇩🇰 Based in Denmark, 23 years old.
-- 🌱 Currently learning Minecraft Fabric modding.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’ve completed a Pokédex in almost every region at some point.
 
@@ -51,6 +50,7 @@
 ### 📚 Currently Learning
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Minecraft Fabric Modding](https://img.shields.io/badge/Minecraft%20Fabric%20Modding-0D1117?style=for-the-badge)
 
 ### 🎮 Minecraft
 
