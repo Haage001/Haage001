@@ -82,6 +82,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Haage001&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" width="400" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Haage001&theme=tokyonight" alt="GitHub Streak" width="400" />
 </p>
 
