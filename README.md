@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://www.haagensen.me">
     <img
-      src="https://cdn.modrinth.com/data/cached_images/b811a708d2a8f791cf233906b023325b01812d2e.png"
+      src="https://cdn.modrinth.com/data/cached_images/44ff730831c4cd4353c5f7bd9c9bf809417e83d3.png"
       alt="haagensen.me"
       width="750"
       loading="lazy"
