@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.haagensen.me">
+  <a href="https://haage.dev">
     <img
       src="https://cdn.modrinth.com/data/cached_images/44ff730831c4cd4353c5f7bd9c9bf809417e83d3.png"
       alt="haagensen.me"
