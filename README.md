@@ -14,7 +14,7 @@
 # 👋 Hi, I’m Haage
 
 - 👀 Into Minecraft modding, resource packs, and Pokémon.
-- 🇩🇰 Based in Denmark, 23 years old.
+- 🇩🇰 Based in Denmark, 24 years old.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’ve completed a Pokédex in almost every region at some point.
 
