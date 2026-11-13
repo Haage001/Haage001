@@ -12,7 +12,7 @@
 <h1 align="center">Hi, I'm Haage</h1>
 
 <p align="center">
-	24-year-old from Denmark. I make Minecraft mods and Pokemon tools,<br />
+	25-year-old from Denmark. I make Minecraft mods and Pokemon tools,<br />
 	and I work in IT support with a focus on networking.
 </p>
 
